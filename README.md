@@ -1,134 +1,212 @@
-<!-- ============ HEADER ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=230&section=header&text=Laxmi%20Bagodi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%20AI%20Engineer%20%C2%B7%20Civic%20Tech%20Builder%20%C2%B7%20Hackathon%20Lead&descSize=20&descAlignY=60&animation=fadeIn" width="100%" />
+
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FF4D6D&center=true&vCenter=true&width=760&lines=%3E+print('Hello+World!+I'm+Laxmi')+%F0%9F%91%8B;Building+AI+agents+that+learn+%F0%9F%A7%A0;Turning+code+into+social+impact+%E2%9A%96%EF%B8%8F;Final-year+CSE+%C2%B7+Hackathon+lead+%C2%B7+Girl+who+codes+%F0%9F%92%BB" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,45:243B80,100:7C3AED&text=LAXMI%20BAGODI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=17&animation=fadeIn" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=laxmibagodi&label=PROFILE+VIEWS&color=800000&style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laxmi_Bagodi-800000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/search/results/people/?keywords=Laxmi%20Bagodi)
-[![Email](https://img.shields.io/badge/Email-laxmibagodi25@gmail.com-800000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laxmibagodi25@gmail.com)
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Java+%7C+Data+Structures+%26+Algorithms;Full-Stack+Developer;AI+%26+Generative+AI+Enthusiast;Building+Ideas+Into+Real+Applications" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://github.com/laxmibagodi">
+<img src="https://komarev.com/ghpvc/?username=laxmibagodi&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
+</a>
+<a href="https://github.com/laxmibagodi?tab=followers">
+<img src="https://img.shields.io/github/followers/laxmibagodi?style=for-the-badge&color=7C3AED&labelColor=0B1020&logo=github" />
+</a>
 
 </div>
 
 ---
 
-## 💃 About Me
+## `01` — About Me
 
-```python
-class Laxmi:
-    def __init__(self):
-        self.role      = "Final-year B.Tech CSE student @ FETW"
-        self.focus     = ["Agentic AI", "RAG", "Civic Tech", "Accessibility"]
-        self.mission   = "Build AI that solves real social problems"
-        self.hackathon = True   # always
-        self.status    = "Open to AI/ML internships & collabs"
+```java
+public class LaxmiBagodi {
 
-    def say_hi(self):
-        return "Let's build something that matters 🚀"
+    String role = "Aspiring Software Engineer";
+    String education = "B.Tech CSE | Class of 2027";
+    String university = "Sharnbasva University";
+
+    String[] focus = {
+        "Java & Data Structures",
+        "Problem Solving",
+        "Full-Stack Development",
+        "Machine Learning",
+        "Generative & Agentic AI"
+    };
+
+    String mindset = "Learn. Build. Improve. Repeat.";
+}
 ```
 
-- 🤖 Exploring **agentic AI**, **RAG pipelines** and **agent memory**
-- ⚖️ Building **legal-tech for Indian citizens & MSMEs**
-- 🤟 Passionate about **accessibility** (sign language, rural education)
-- 🏆 Hackathon regular, **team lead**, college event organizer
-- 🌱 Currently learning **AWS** and production-grade LLM apps
+I'm a final-year Computer Science and Engineering student passionate about **software engineering, problem-solving, and building technology that makes a difference**.
+
+My foundation is in programming, Java, data structures, and full-stack development. I also enjoy exploring AI, Machine Learning, and Generative AI to develop intelligent, practical applications.
+
+- 🎓 B.Tech Computer Science & Engineering — 2027
+- 💻 Strengthening Java, DSA, OOP, and software development fundamentals
+- 🌐 Building full-stack applications and REST APIs
+- 🤖 Exploring ML, LLMs, RAG systems, and AI agents
+- 🌱 Interested in open source, collaborative engineering, and continuous learning
 
 ---
 
-## 🔥 Featured Project
+## `02` — Tech Stack
 
 <div align="center">
 
-[![Pricing Consequence Agent](https://github-readme-stats.vercel.app/api/pin/?username=laxmibagodi&repo=pricing-consequence-agent&theme=dark&bg_color=1a0000&title_color=ff4d6d&text_color=ffffff&icon_color=b0003a&border_color=800000)](https://github.com/laxmibagodi/pricing-consequence-agent)
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,js,c,mysql&theme=dark" />
+
+### Frontend & Backend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,nodejs,express,fastapi&theme=dark" />
+
+### Databases & AI/ML
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,tensorflow,sklearn,pytorch&theme=dark" />
+
+### Developer Tools & Cloud
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,azure,gcp&theme=dark" />
 
 </div>
 
-**Pricing Consequence Agent** · *Hack with Hyderabad 3.0 (Team Lead)*
-An AI agent that **learns from the real outcomes of its pricing decisions** using Hindsight memory (Retain → Recall → Reflect), so every decision makes the next one smarter.
+**Additional technologies:** LangChain · LangGraph · FAISS · ChromaDB · Sentence Transformers · Groq · n8n · Vapi · Power BI
 
-`Hindsight` `Groq` `FastAPI` `React` `Next.js`
-
----
-
-## 🚀 Projects
-
-| | Project | What it does | Stack |
-|---|---|---|---|
-| 📚 | **arXiv Paper Digest & QA Agent** | Autonomous LangGraph agent that retrieves, ranks and parses arXiv papers, then writes briefings with grounded Q&A. **9/9 tests passing.** | `Python` `LangGraph` `Gemini` `ChromaDB` `RAG` |
-| ⚖️ | **AI Civic & Legal Platform** | Full-stack platform helping Indian citizens navigate legal and civic processes, built entirely on a free-tier stack. | `Next.js 14` `Supabase` `Gemini` `Vercel` |
-| 🏢 | **Nyaya AI** | Legal platform for Indian MSMEs with multilingual contract analysis. | `React` `TypeScript` `Gemini` |
-| 🤟 | **Real-Time Sign Language Interpreter** | Gesture-to-text accessibility tool, presented at Technovision Ideathon 2025. | `MediaPipe` `TensorFlow` `OpenCV` |
-| 🩺 | **MediMeet** | Telemedicine platform pitched at a hackathon. | `Web` `UI/UX` |
-| 🥽 | **VR Shala** | Immersive VR learning concept for rural education, SEVA Innovation Challenge 2026. | `VR` `Edge AI` |
+**Computer Science:** Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating Systems · Computer Networks · Problem Solving
 
 ---
 
-## 🛠️ Tech Arsenal
+## `03` — Featured Projects
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-800000?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-800000?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-800000?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-800000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-800000?style=for-the-badge&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-800000?style=for-the-badge&logo=supabase&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-800000?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-800000?style=for-the-badge&logo=opencv&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-800000?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-800000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-800000?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-800000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<a href="https://github.com/laxmibagodi/pricing-consequence-agent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmibagodi&repo=pricing-consequence-agent&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/laxmibagodi/oceanguard-app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmibagodi&repo=oceanguard-app&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/laxmibagodi/rag-pdf-qa">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmibagodi&repo=rag-pdf-qa&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/laxmibagodi/Namma-NyayaMitra">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmibagodi&repo=Namma-NyayaMitra&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
-| Area | Tools |
-|---|---|
-| 🧠 **AI / ML** | LangGraph · RAG · ChromaDB · Gemini · Groq · CNNs · MediaPipe |
-| 🌐 **Web** | React · Next.js · TypeScript · FastAPI · Supabase |
-| ☁️ **Cloud & Dev** | AWS · Vercel · Git · GitHub · VS Code |
+### ⚡ Pricing Consequence Agent
+**AI-powered decision support | FastAPI · React · Groq · Hindsight**
 
----
+- Developed a memory-enabled agent that evaluates pricing proposals against historical decisions.
+- Uses Retain, Recall, and Reflect memory operations to retrieve comparable cases and identify contradictions.
+- Provides verdict labels and confidence scores through a React frontend and FastAPI backend.
 
-## 📊 GitHub Stats
+### 🌊 OceanGuard
+**Environmental AI | Oil-spill detection**
+
+- An ocean-protection project focused on addressing oil pollution through technology.
+- Explores AI-based oil-spill detection and environmental monitoring.
+
+### 🧠 RAG PDF Brain
+**Retrieval-Augmented Generation | Python · FAISS · MiniLM · RoBERTa**
+
+- Built a multi-PDF question-answering system with document processing and semantic retrieval.
+- Implemented embeddings, FAISS similarity search, and Maximal Marginal Relevance.
+- Provides answers with document and page-level source attribution.
+
+### ⚖️ Namma NyayaMitra
+**AI-powered legal assistance | React · TypeScript · Express · Firebase · Gemini**
+
+- Built a legal assistance platform for Indian MSMEs and micro-entrepreneurs.
+- Supports contract analysis, risk identification, agreement generation, and legal guidance.
+- Developed as a team project for PDA College Hackathon 2026.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=laxmibagodi&show_icons=true&hide_border=true&bg_color=1a0000&title_color=ff4d6d&text_color=ffffff&icon_color=b0003a&ring_color=ff4d6d" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmibagodi&layout=compact&hide_border=true&bg_color=1a0000&title_color=ff4d6d&text_color=ffffff" />
+<a href="https://namma-nyaya-mitra-idtm.vercel.app/">
+<img src="https://img.shields.io/badge/Explore%20Live%20Project-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-<img src="https://streak-stats.demolab.com?user=laxmibagodi&hide_border=true&background=1A0000&ring=FF4D6D&fire=FF4D6D&currStreakLabel=FF4D6D&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9A0A0" height="170" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=laxmibagodi&bg_color=1a0000&color=ff4d6d&line=800000&point=ffffff&area=true&area_color=800000&hide_border=true" width="95%" />
+<a href="https://github.com/laxmibagodi?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20All%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 🏅 Achievements & Journey
-
-- 🏆 **Hack with Hyderabad 3.0** · Team Lead, AI Agents That Learn Using Hindsight
-- 💡 **SEVA First Innovation Challenge 2026** · VR Shala submission
-- 🤟 **Technovision Ideathon 2025** · Real-Time Sign Language Interpreter
-- 💼 **AI Intern, Codec Technologies** · 2026
-- 🎓 Webinar: *Beyond Simple Agents: Build an AI Pipeline with Claude*
-- 🎤 Organizer and anchor for college events
-
----
-
-## 🤝 Let's Connect
+## `04` — GitHub Analytics
 
 <div align="center">
 
-I'm open to **AI/ML internships, hackathon teams and civic-tech collaborations**.
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=laxmibagodi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=58A6FF&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-800000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/search/results/people/?keywords=Laxmi%20Bagodi)
-[![Gmail](https://img.shields.io/badge/Gmail-Say_Hi-800000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laxmibagodi25@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-800000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laxmibagodi)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmibagodi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=58A6FF&text_color=C9D1D9" />
 
-*"Code like a girl. Build like a boss."* 💻❤️
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=laxmibagodi&theme=tokyonight&hide_border=true&background=0B1020&ring=7C3AED&fire=58A6FF&currStreakLabel=58A6FF" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=laxmibagodi&bg_color=0B1020&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=footer" width="100%" />
+---
+
+## `05` — Currently Exploring
+
+<div align="center">
+
+| Area | Focus |
+|:---|:---|
+| Software Engineering | Java, DSA, OOP, problem-solving |
+| Backend Development | APIs, FastAPI, Node.js |
+| AI Engineering | LLMs, RAG, AI agents |
+| Machine Learning | NLP, deep learning, computer vision |
+| Engineering Practices | Git, Docker, cloud, collaboration |
+
+</div>
+
+---
+
+## `06` — Beyond the Code
+
+- 🌐 Exploring open-source projects and developer communities.
+- 🏆 Participating in hackathons and technical workshops.
+- ☁️ Engaging with Google Cloud and NVIDIA developer communities.
+- 📚 Learning through hands-on projects and collaboration.
+
+---
+
+## `07` — Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/laxmi-bagodi-209b51296/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:laxmibagodi25@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/laxmibagodi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Open to learning, building, collaborating, and meaningful engineering opportunities.**
+
+*"Great software is built one thoughtful problem at a time."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7C3AED,50:243B80,100:0B1020" />
+
+</div>
