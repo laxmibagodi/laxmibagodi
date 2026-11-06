@@ -1,212 +1,190 @@
+# Hey, I'm Laxmi! 👋
 
+### Aspiring Software Engineer | Java | Full-Stack Development | AI & ML Enthusiast | Exploring Agentic AI
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,45:243B80,100:7C3AED&text=LAXMI%20BAGODI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=17&animation=fadeIn" />
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Java+%7C+Data+Structures+%26+Algorithms;Full-Stack+Developer;AI+%26+Generative+AI+Enthusiast;Building+Ideas+Into+Real+Applications" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<a href="https://github.com/laxmibagodi">
-<img src="https://komarev.com/ghpvc/?username=laxmibagodi&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
-</a>
-<a href="https://github.com/laxmibagodi?tab=followers">
-<img src="https://img.shields.io/github/followers/laxmibagodi?style=for-the-badge&color=7C3AED&labelColor=0B1020&logo=github" />
-</a>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laxmi-bagodi-209b51296/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/laxmibagodi)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:laxmibagodi25@gmail.com)
 
 ---
 
-## `01` — About Me
+I enjoy building things, solving problems, and figuring out how technology works behind the scenes.
 
-```java
-public class LaxmiBagodi {
+I'm a Computer Science student graduating in 2027, interested in software engineering and the intersection of development and AI. From working with Java and data structures to building full-stack applications and experimenting with AI agents, I'm always exploring something new.
 
-    String role = "Aspiring Software Engineer";
-    String education = "B.Tech CSE | Class of 2027";
-    String university = "Sharnbasva University";
+I believe the best way to learn is to build, break things, debug them, and build them better. :)
 
-    String[] focus = {
-        "Java & Data Structures",
-        "Problem Solving",
-        "Full-Stack Development",
-        "Machine Learning",
-        "Generative & Agentic AI"
-    };
-
-    String mindset = "Learn. Build. Improve. Repeat.";
-}
-```
-
-I'm a final-year Computer Science and Engineering student passionate about **software engineering, problem-solving, and building technology that makes a difference**.
-
-My foundation is in programming, Java, data structures, and full-stack development. I also enjoy exploring AI, Machine Learning, and Generative AI to develop intelligent, practical applications.
-
-- 🎓 B.Tech Computer Science & Engineering — 2027
-- 💻 Strengthening Java, DSA, OOP, and software development fundamentals
-- 🌐 Building full-stack applications and REST APIs
-- 🤖 Exploring ML, LLMs, RAG systems, and AI agents
-- 🌱 Interested in open source, collaborative engineering, and continuous learning
+- 🔭 Building and experimenting with software and AI projects.
+- 🌱 Strengthening my Java, DSA, and problem-solving skills.
+- 🤖 Exploring Generative AI, RAG, and Agentic AI.
+- 💻 Interested in backend engineering, scalable applications, and clean code.
+- 🤝 Open to interesting projects, collaborations, and open-source contributions.
 
 ---
 
-## `02` — Tech Stack
+## 🚀 Things I've Built
 
-<div align="center">
+### 01. [Pricing Consequence Agent](https://github.com/laxmibagodi/pricing-consequence-agent)
 
-### Programming Languages
+An AI decision-support agent that evaluates pricing proposals using historical decisions and long-term memory.
 
-<img src="https://skillicons.dev/icons?i=java,python,js,c,mysql&theme=dark" />
+- Implemented Retain, Recall, and Reflect memory operations using Hindsight.
+- Built a FastAPI backend and React frontend.
+- Uses Groq-hosted LLMs to retrieve comparable cases and identify contradictions.
+- Provides verdict labels and confidence scores.
 
-### Frontend & Backend
+`Python` `FastAPI` `React` `Groq` `Hindsight`
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,nodejs,express,fastapi&theme=dark" />
+### 02. [OceanGuard](https://github.com/laxmibagodi/oceanguard-app)
 
-### Databases & AI/ML
+An environmental technology project exploring AI-based approaches to ocean protection and oil-spill detection.
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,tensorflow,sklearn,pytorch&theme=dark" />
+- Focused on addressing ocean pollution through technology.
+- Explores AI-based detection and environmental monitoring.
 
-### Developer Tools & Cloud
+`AI/ML` `Computer Vision` `Environmental Technology`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,azure,gcp&theme=dark" />
+### 03. [RAG PDF Brain](https://github.com/laxmibagodi/rag-pdf-qa)
 
-</div>
+A multi-document question-answering system that retrieves relevant information from PDF documents.
 
-**Additional technologies:** LangChain · LangGraph · FAISS · ChromaDB · Sentence Transformers · Groq · n8n · Vapi · Power BI
+- Implemented MiniLM embeddings and FAISS semantic retrieval.
+- Used Maximal Marginal Relevance for improved retrieval.
+- Integrated extractive question answering and document/page-level source attribution.
 
-**Computer Science:** Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating Systems · Computer Networks · Problem Solving
+`Python` `RAG` `FAISS` `MiniLM` `RoBERTa`
 
----
+### 04. [Namma NyayaMitra](https://github.com/laxmibagodi/Namma-NyayaMitra)
 
-## `03` — Featured Projects
+An AI-powered legal assistance platform for Indian MSMEs and micro-entrepreneurs.
 
-<div align="center">
-
-<a href="https://github.com/laxmibagodi/pricing-consequence-agent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmibagodi&repo=pricing-consequence-agent&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/laxmibagodi/oceanguard-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmibagodi&repo=oceanguard-app&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/laxmibagodi/rag-pdf-qa">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmibagodi&repo=rag-pdf-qa&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/laxmibagodi/Namma-NyayaMitra">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmibagodi&repo=Namma-NyayaMitra&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-### ⚡ Pricing Consequence Agent
-**AI-powered decision support | FastAPI · React · Groq · Hindsight**
-
-- Developed a memory-enabled agent that evaluates pricing proposals against historical decisions.
-- Uses Retain, Recall, and Reflect memory operations to retrieve comparable cases and identify contradictions.
-- Provides verdict labels and confidence scores through a React frontend and FastAPI backend.
-
-### 🌊 OceanGuard
-**Environmental AI | Oil-spill detection**
-
-- An ocean-protection project focused on addressing oil pollution through technology.
-- Explores AI-based oil-spill detection and environmental monitoring.
-
-### 🧠 RAG PDF Brain
-**Retrieval-Augmented Generation | Python · FAISS · MiniLM · RoBERTa**
-
-- Built a multi-PDF question-answering system with document processing and semantic retrieval.
-- Implemented embeddings, FAISS similarity search, and Maximal Marginal Relevance.
-- Provides answers with document and page-level source attribution.
-
-### ⚖️ Namma NyayaMitra
-**AI-powered legal assistance | React · TypeScript · Express · Firebase · Gemini**
-
-- Built a legal assistance platform for Indian MSMEs and micro-entrepreneurs.
-- Supports contract analysis, risk identification, agreement generation, and legal guidance.
+- Supports contract analysis and risk identification.
+- Generates agreements and provides legal guidance.
 - Developed as a team project for PDA College Hackathon 2026.
 
-<div align="center">
+`React` `TypeScript` `Express.js` `Firebase` `Gemini`
 
-<a href="https://namma-nyaya-mitra-idtm.vercel.app/">
-<img src="https://img.shields.io/badge/Explore%20Live%20Project-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://github.com/laxmibagodi?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20All%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+[![Live Application](https://img.shields.io/badge/Live%20Application-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://namma-nyaya-mitra-idtm.vercel.app/)
 
 ---
 
-## `04` — GitHub Analytics
+## ✨ More Experiments & Engineering Work
 
-<div align="center">
+| Project | What I explored |
+|---|---|
+| Handwritten Digit Recognition | TensorFlow, Keras, MNIST — 99.21% test accuracy |
+| Twitter Sentiment Analysis | NLP, TF-IDF, Logistic Regression — 78% accuracy |
+| Resume Screening Platform | Full-stack development, AI-assisted screening — reported 60% reduction in manual screening effort |
+| Retail Shopping Trends Analysis | SQL analysis of 3,900 purchase records and Power BI visualisation |
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=laxmibagodi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=58A6FF&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmibagodi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=58A6FF&text_color=C9D1D9" />
-
-<br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=laxmibagodi&theme=tokyonight&hide_border=true&background=0B1020&ring=7C3AED&fire=58A6FF&currStreakLabel=58A6FF" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=laxmibagodi&bg_color=0B1020&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-
-</div>
+I enjoy working across different domains because every project teaches me a different way to approach a problem.
 
 ---
 
-## `05` — Currently Exploring
+## 💻 My Tech Stack
 
-<div align="center">
+**Languages**
 
-| Area | Focus |
-|:---|:---|
-| Software Engineering | Java, DSA, OOP, problem-solving |
-| Backend Development | APIs, FastAPI, Node.js |
-| AI Engineering | LLMs, RAG, AI agents |
-| Machine Learning | NLP, deep learning, computer vision |
-| Engineering Practices | Git, Docker, cloud, collaboration |
+![Java](https://img.shields.io/badge/Java-2563EB?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2563EB?style=flat-square&logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/C-2563EB?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2563EB?style=flat-square&logo=mysql&logoColor=white)
 
-</div>
+**Frontend & Backend**
+
+![React](https://img.shields.io/badge/React-2563EB?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-2563EB?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-2563EB?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-2563EB?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-2563EB?style=flat-square&logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-2563EB?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2563EB?style=flat-square&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-2563EB?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2563EB?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-2563EB?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-2563EB?style=flat-square&logo=firebase&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-2563EB?style=flat-square)
+
+**AI & Machine Learning**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2563EB?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-2563EB?style=flat-square&logo=keras&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-2563EB?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-2563EB?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2563EB?style=flat-square)
+
+Also exploring: LLMs · RAG · Embeddings · Semantic Search · FAISS · NLP · Deep Learning · Computer Vision · AI Agents
+
+**Developer Tools & Cloud**
+
+![Git](https://img.shields.io/badge/Git-2563EB?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2563EB?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2563EB?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-2563EB?style=flat-square&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-2563EB?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-2563EB?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-2563EB?style=flat-square&logo=googlecloud&logoColor=white)
 
 ---
 
-## `06` — Beyond the Code
+## 🧩 What I'm Curious About Right Now
 
-- 🌐 Exploring open-source projects and developer communities.
-- 🏆 Participating in hackathons and technical workshops.
-- ☁️ Engaging with Google Cloud and NVIDIA developer communities.
-- 📚 Learning through hands-on projects and collaboration.
+- **Problem Solving:** Java, Data Structures & Algorithms, and algorithmic thinking.
+- **Software Engineering:** Backend architecture, APIs, maintainable code, and application design.
+- **AI Engineering:** LLM applications, RAG pipelines, memory systems, and autonomous agents.
+- **Building Better:** Testing, debugging, performance, and reliable software.
+
+I especially enjoy projects where software engineering meets intelligent systems.
 
 ---
 
-## `07` — Let's Connect
+## 🌱 Beyond the Code
 
-<div align="center">
+I enjoy participating in hackathons, exploring developer communities, attending technical events, and learning from people who build interesting things.
 
-<a href="https://www.linkedin.com/in/laxmi-bagodi-209b51296/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:laxmibagodi25@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/laxmibagodi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+- GEAR Agent Fundamentals graduate.
+- Google Cloud & NVIDIA Community Member.
+- IEEE Student Member.
+- GDG DevFest Hyderabad 2026 participant.
+- Exploring open-source development and collaborative engineering.
 
-<br/><br/>
+---
 
-**Open to learning, building, collaborating, and meaningful engineering opportunities.**
+## 🛠️ My Developer Philosophy
 
-*"Great software is built one thoughtful problem at a time."*
+```text
+Understand the problem.
+Break it into smaller pieces.
+Build a solution.
+Test every assumption.
+Learn from what breaks.
+Make it better.
+Repeat.
+```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7C3AED,50:243B80,100:0B1020" />
+---
 
-</div>
+## 📊 A Little GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laxmibagodi&show_icons=true&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=57606A&bg_color=FFFFFF&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmibagodi&layout=compact&hide_border=true&title_color=2563EB&text_color=57606A&bg_color=FFFFFF" height="165" />
+</p>
+
+---
+
+## 💬 Let's Connect
+
+I'm always happy to connect with developers, exchange ideas, collaborate on projects, and explore opportunities to build meaningful technology.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laxmi-bagodi-209b51296/)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:laxmibagodi25@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/laxmibagodi)
+
+---
+
+*Still learning, still building, and always curious about what's next. ✨*
